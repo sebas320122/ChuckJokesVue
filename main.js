@@ -1,7 +1,7 @@
 var app = new Vue({
     el: '#app',
     data: {
-      todos: [
+      chuck: [
 
     { 
         "value": "Chuck Norris can skydive into outer space." 
