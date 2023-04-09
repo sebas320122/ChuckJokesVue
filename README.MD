@@ -1,3 +1,3 @@
 # Información
-- Asignación: Actividad 12
-- Descripción: Implemntar vue para desplegar datos en lista y agregar stylesheet
+- Asignación: Tarea 10
+- Descripción: Actualizar datos de chuck e implementar bootstrap
